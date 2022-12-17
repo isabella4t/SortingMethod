@@ -1,4 +1,4 @@
-# FourierTransforms
+# Sorting Methods
 By Isabella Tang
 
 Acknowledgements: Mr. Kuszmaul, https://www.geeksforgeeks.org/quick-sort/
