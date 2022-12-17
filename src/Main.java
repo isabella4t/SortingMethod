@@ -26,7 +26,7 @@ public class Main {
         //end timer
         System.out.println("QuickSorter time: " + tim);
 
-        be.printArr(be.QuickSorter(0,ne.length-1));
+        be.printArr(be.QuickSorter(0,7));
     }
 
     public static void testBatcher(){
